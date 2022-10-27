@@ -1,2 +1,2 @@
 # HelloDialog-go
-The project of 'HelloDialog' introduction pages' back end.
+The back end of the introduction page of the HelloDialog project
